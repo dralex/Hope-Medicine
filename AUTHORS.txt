@@ -1,0 +1,6 @@
+Hope-Medicine - A client-server software for modeling clinical analysis of
+blood, genetic and hormonal diseases
+
+Copyright (c) 2010 by Alexey Fedoseev
+aleksey@fedoseev.net
+http://www.rpgwiki.ru/twiki/bin/view/Noon22/Hope
